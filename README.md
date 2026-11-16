@@ -12,9 +12,7 @@
 [<img align="left" alt="Jesus | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Jesus | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/Josh
-[instagram]: https://www.instagram.com/Josh
-[linkedin]: https://linkedin.com/in/Joshs-Santana
+[linkedin]: https://www.linkedin.com/in/jesus-santana94/
 
 <!--
 **jesussantana94/jesussantana94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
