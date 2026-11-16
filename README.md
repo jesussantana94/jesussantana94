@@ -8,9 +8,9 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jesussantana94/configure-ad)
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Jesus  | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
 [<img align="left" alt="Jesus | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Jesus | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 
 [linkedin]: https://www.linkedin.com/in/jesus-santana94/
 
